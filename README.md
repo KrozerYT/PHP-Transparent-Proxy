@@ -1,1 +1,0 @@
-# PHP-Transparent-Proxy
